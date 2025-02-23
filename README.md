@@ -32,4 +32,4 @@
 ## How to Use? 🚀  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/GetKnowToIndia.git
+   git clone https://github.com/anishsingh234/GetKnowToIndia.git
